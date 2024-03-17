@@ -1,6 +1,6 @@
 # Chat Application
 
-LIVE DEMO:- "https://chat-app-t8d1.onrender.com"
+LIVE DEMO:- "https://live-chat-app-mocha.vercel.app/"
 
 Some Images:-
 
